@@ -1,6 +1,6 @@
 # Word-Game
 
-## 🚀 Tecnologias
+## 🚀 Tecnologia
 
 Esse projeto foi desenvolvido com a seguinte tecnologia:
 
